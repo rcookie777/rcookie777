@@ -3,6 +3,12 @@
 
 - 🔭 I’m currently working on [Lynx Protocol](https://github.com/LYNXCRYPTO/)
 
+- 🌱 I’m currently learning **Rust and Go**
+
+- 💬 Ask me about **peer to peer networks,distributed systems and innovative tech**
+
+- 📫 How to reach me **cookril2@msu.edu**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rileyxcook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rileyxcook" height="30" width="40" /></a>

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0xCookie</h1>
 <h3 align="center">Full Stack</h3>
 
-- 🔭 I’m currently working on [Lynx Protocol](https://github.com/LYNXCRYPTO/)
-
 - 🌱 I’m currently learning **Rust and Go**
 
 - 💬 Ask me about **peer to peer networks,distributed systems and innovative tech**

@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm 0xCookie</h1>
 <h3 align="center">Full Stack</h3>
 
 - 🌱 I’m currently learning **Rust and Go**
